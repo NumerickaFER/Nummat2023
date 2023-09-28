@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: content/1.predavanje
+- file: content/2.predavanje
+- file: content/3.predavanje
+- file: content/4.predavanje
+- file: content/5.predavanje
+- file: content/5.predavanjeCholesky
+- file: content/6.predavanje
+- file: content/7.predavanje
+- file: content/8.predavanje
+- file: content/9.predavanje
